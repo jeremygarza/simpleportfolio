@@ -1,0 +1,44 @@
+
+
+body{
+  background: white;
+}
+
+.headerdiv{
+  margin-left: auto;
+  margin-right: auto;
+  position: center;
+  text-align: center;
+
+}
+.about{
+  text-align: center;
+  position: left;
+}
+
+h1 {
+  text-align: center;
+  color: green;
+}
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+.highlight {
+  text-align: center;
+  color: red;
+  font: 110% sans-serif;
+}
+.me {
+
+  float: left;
+}
+.portfolio{
+  width:150px;
+  height:100px;
+  overflow: auto;
+  zoom:1;
+
+}
+
